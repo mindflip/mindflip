@@ -1,7 +1,7 @@
 ## Hi! I'm mindflip [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmindflip&count_bg=%23A2B9FB&title_bg=%23989898&icon=&icon_color=%2393E4FB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 👀 I’m interested in `Workout`, `Game`
-- 🌱 I’m currently learning `Node.js`, `Vue.js`, `AWS`
+- 🌱 I’m currently learning `Node.js`, `express.js`, `react.js`
 - 📫 How to reach me: mindflip93@gmail.com
 - 🧐 My personal blog: https://mindflip.github.io/
 
